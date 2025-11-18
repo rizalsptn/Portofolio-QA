@@ -94,8 +94,8 @@ Di portofolio ini aku bakal share pengetahuan QA-ku dan tunjukin sampel kerjaan:
 
 ### Contact
 
-- Email: [your.email@example.com](mailto\:rzllsptnn19@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/your-linkedin]((https://www.linkedin.com/in/muhamad-rizal-septian-b3871a2a8?utm_source=share\&utm_campaign=share_via\&utm_content=profile\&utm_medium=ios_app))
+- Email: [rzllsptnn19@gmail.com](mailto\:rzllsptnn19@gmail.com)
+- LinkedIn: [Muhamad Rizal Septian](https://www.linkedin.com/in/muhamad-rizal-septian-b3871a2a8?utm_source=share\&utm_campaign=share_via\&utm_content=profile\&utm_medium=ios_app)
 
 
 
