@@ -6,7 +6,7 @@ Hi, nama aku **Muhamad Rizal Septian**. Sejak beberapa waktu terakhir aku belaja
 
 Di portofolio ini aku bakal share pengetahuan QA-ku dan tunjukin sampel kerjaan: test plan, test cases, bug reports, dan hasil testing lainnya.
 
-[My Linkedin Profile] ([LinkedIn](https://www.linkedin.com/in/muhamad-rizal-septian-b3871a2a8?utm_source=share\&utm_campaign=share_via\&utm_content=profile\&utm_medium=ios_app))
+([My LinkedIn Profile](https://www.linkedin.com/in/muhamad-rizal-septian-b3871a2a8?utm_source=share\&utm_campaign=share_via\&utm_content=profile\&utm_medium=ios_app))
 
 ---
 
