@@ -2,7 +2,7 @@
 
 ### About me
 
-Hi, nama aku **Muhamad Rizal Septian**. Sejak beberapa waktu terakhir aku belajar dan praktik jadi QA—dari manual testing sampai mulai belajar otomasi. Aku fokus bikin dokumentasi testing yang rapi, bug report yang jelas, dan terus ngembangin kemampuan automation (saat ini lagi belajar Python & Selenium).
+Hi, nama saya **Muhamad Rizal Septian**. Sejak beberapa waktu terakhir aku belajar dan praktik jadi QA—dari manual testing sampai mulai belajar otomasi. Aku fokus bikin dokumentasi testing yang rapi, bug report yang jelas, dan terus ngembangin kemampuan automation (saat ini lagi belajar Python & Selenium).
 
 Di portofolio ini aku bakal share pengetahuan QA-ku dan tunjukin sampel kerjaan: test plan, test cases, bug reports, dan hasil testing lainnya.
 
