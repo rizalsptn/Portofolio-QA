@@ -2,9 +2,11 @@
 
 ### About me
 
-Hi, nama saya **Muhamad Rizal Septian**. Sejak beberapa waktu terakhir aku belajar dan praktik jadi QA—dari manual testing sampai mulai belajar otomasi. Aku fokus bikin dokumentasi testing yang rapi, bug report yang jelas, dan terus ngembangin kemampuan automation (saat ini lagi belajar Python & Selenium).
+Hi, nama saya **Muhamad Rizal Septian**. Saat ini saya sedang mengembangkan kemampuan di bidang Quality Assurance, mulai dari memahami fundamental manual testing hingga mulai mempelajari automation testing. Saya memiliki perhatian besar terhadap dokumentasi pengujian yang rapi serta penyusunan bug report yang jelas dan terstruktur.
 
-Di portofolio ini aku bakal share pengetahuan QA-ku dan tunjukin sampel kerjaan: test plan, test cases, bug reports, dan hasil testing lainnya.
+Saya juga menaruh perhatian pada aspek aksesibilitas dan kemudahan penggunaan, karena saya melihat peran QA sebagai peluang untuk membantu menciptakan pengalaman digital yang lebih inklusif dan dapat digunakan oleh semua orang. Saya berkomitmen untuk terus berkembang dan memberikan kualitas kerja terbaik di lingkungan profesional.
+
+Di portofolio ini saya akan share pengetahuan QA dan menunjukan sampel kerjaan: test plan, test cases, bug reports, dan hasil testing lainnya.
 
 ([My LinkedIn Profile](https://www.linkedin.com/in/muhamad-rizal-septian-b3871a2a8?utm_source=share\&utm_campaign=share_via\&utm_content=profile\&utm_medium=ios_app))
 
@@ -24,6 +26,8 @@ Di portofolio ini aku bakal share pengetahuan QA-ku dan tunjukin sampel kerjaan:
 - [Xampp](https://www.postman.com/) — Practicing SQL
 - [Visual Studio Code](https://code.visualstudio.com/) — Source Code
 - [Google Drive](https://drive.google.com/drive/) - Storing Data
+- [Microsoft Word](https://word.cloud.microsoft/id-id/) -Reports Dokumentation
+  
 
 ---
 
@@ -35,7 +39,6 @@ Di portofolio ini aku bakal share pengetahuan QA-ku dan tunjukin sampel kerjaan:
 - SQL: basic SELECT, JOIN, agregasi
 - Basic Python for test automation
 - Familiarity with Agile/Scrum
-- ISTQB Foundation Level — (isi jika kamu punya)
 
 ---
 
