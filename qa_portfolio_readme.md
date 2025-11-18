@@ -19,16 +19,11 @@ Di portofolio ini aku bakal share pengetahuan QA-ku dan tunjukin sampel kerjaan:
 
 ### Tools
 
-- [Trello](https://trello.com/) — manajemen tugas & backlog
-- Confluence — dokumentasi
-- Postman — API testing
-- Chrome DevTools — debugging web
-- Git & GitHub — version control
-- SQL (SSMS / XAMPP) — query untuk cek data
-- Python, PyCharm — automation basics
-- Selenium, Robot Framework — automation frameworks
-- VS Code — editing HTML/CSS dan skrip
-- Slack / Google Drive — komunikasi & penyimpanan
+- [Trello](https://trello.com/) — Project Management
+- [Postman](https://www.postman.com/) — API testing
+- [Xampp](https://www.postman.com/) — Practicing SQL
+- [Visual Studio Code](https://code.visualstudio.com/) — Source Code
+- [Google Drive](https://drive.google.com/drive/) - Storing Data
 
 ---
 
@@ -99,21 +94,8 @@ Di portofolio ini aku bakal share pengetahuan QA-ku dan tunjukin sampel kerjaan:
 
 ### Contact
 
-- Email: [your.email@example.com](mailto\:your.email@example.com)
-- LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- Email: [your.email@example.com](mailto\:rzllsptnn19@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/your-linkedin]((https://www.linkedin.com/in/muhamad-rizal-septian-b3871a2a8?utm_source=share\&utm_campaign=share_via\&utm_content=profile\&utm_medium=ios_app))
 
----
 
-## How to use this repo
-
-1. Clone repo: `git clone https://github.com/your-username/Portfolio.git`
-2. Edit README.md: sesuaikan nama, pengalaman, dan link ke dokumen sample.
-3. Tambahkan file sample (test plan, test cases, bug report) di folder `samples/`.
-4. Commit & push: `git add . && git commit -m "Add my QA portfolio" && git push`
-
----
-
-Jika mau, aku bisa sekaligus generate file sample (test plan, beberapa test cases, template bug report) dan struktur folder lengkap yang siap kamu commit ke repo.
-
-Good luck! Salam santai ✌️
 
