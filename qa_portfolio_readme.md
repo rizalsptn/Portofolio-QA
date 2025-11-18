@@ -19,7 +19,7 @@ Di portofolio ini aku bakal share pengetahuan QA-ku dan tunjukin sampel kerjaan:
 
 ### Tools
 
-- Jira, Trello — manajemen tugas & backlog
+- https://trello.com/ — manajemen tugas & backlog
 - Confluence — dokumentasi
 - Postman — API testing
 - Chrome DevTools — debugging web
